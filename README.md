@@ -1,7 +1,15 @@
 # Metatrader Analytics
 
-## 🔹 Description 
+## 🔹 Overview 
 This repository contains a Python-based tool for comprehensive analysis of MetaTrader 5 trading accounts. The project provides advanced statistical metrics, performance visualization, for traders seeking to optimize their strategies through data-driven insights.
+
+## 🔹 Features
+- Secure login into MT5 accounts
+- Advanced statistical analysis of trade operations
+- Real-time and historical profit/loss tracking
+- Aggregated results by symbol, day of week, hour, and session
+- Drawdown, Sharpe ratio, recovery factor and expectancy metrics
+- Consistency and accuracy analysis
 
 ## 🔹 Project Structure
 
