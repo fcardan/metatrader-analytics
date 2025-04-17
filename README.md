@@ -11,6 +11,12 @@ This repository contains a Python-based tool for comprehensive analysis of MetaT
 - Drawdown, Sharpe ratio, recovery factor and expectancy metrics
 - Consistency and accuracy analysis
 
+## 🔹 Tech Stack
+
+- Python 3.10+
+- MetaTrader5 (official MT5 Python API)
+- `logging` for internal audit and debugging
+
 ## 🔹 Project Structure
 
 ```
